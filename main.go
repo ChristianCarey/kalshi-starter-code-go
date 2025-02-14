@@ -39,7 +39,7 @@ func main() {
 		log.Fatal("Error loading .env file: ", err)
 	}
 
-	env := config.Prod
+	env := config.Demo
 
 	var (
 		keyID   string

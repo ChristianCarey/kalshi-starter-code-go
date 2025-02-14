@@ -28,7 +28,8 @@ go mod download
 
 ## Configuration
 
-Create a `.env` file in the project root with your Kalshi API credentials (see `.env.example` for template):
+- Visti the [Kalshi API Documentation](https://trading-api.readme.io/) to learn how to create your API credentials.
+- Create a `.env` file in the project root with your Kalshi API credentials (see `.env.example` for template)
 
 ## Usage
 
