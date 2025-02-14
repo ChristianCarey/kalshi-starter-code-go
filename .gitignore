@@ -1,0 +1,37 @@
+# Dependencies
+/vendor/
+/go.sum
+
+# IDE and editor files
+.idea/
+.vscode/
+.cursor/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output files
+*.out
+/dist/
+/build/
+
+# Environment files
+.env
+*.pem
+config.json
+keys/
+*.key
+
+# Project specific
+repomix-output.txt
